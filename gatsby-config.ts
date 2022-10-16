@@ -150,9 +150,9 @@ export default {
       options: {
         name: config.title,
         short_name: config.title,
-        theme_color: "hsl(31, 92%, 62%)",
+        theme_color: "#00AD9F",
         background_color: "hsl(0, 0%, 100%)",
-        icon: "content/photo.jpg",
+        icon: "content/photo.jpeg",
         display: "standalone",
         start_url: "/",
       },
