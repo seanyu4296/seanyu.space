@@ -1,6 +1,6 @@
 {
-  "title": "Blog by John Doe",
-  "url": "https://lumen.alxshelepenok.com",
+  "title": "Sean Yu",
+  "url": "https://seanyu.space",
   "subtitle": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
@@ -22,9 +22,9 @@
     }
   ],
   "author": {
-    "name": "John Doe",
+    "name": "Sean Yu",
     "photo": "/photo.jpeg",
-    "bio": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    "bio": "<Insert Bio>",
     "contacts": {
       "rss": "",
       "email": "",

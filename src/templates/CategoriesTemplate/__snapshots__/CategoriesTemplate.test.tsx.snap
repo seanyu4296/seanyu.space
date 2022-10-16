@@ -12,7 +12,7 @@ exports[`CategoriesTemplate renders correctly 1`] = `
           <a
             href="/"
           >
-            John Doe
+            Sean Yu
           </a>
         </h2>
         <p>
