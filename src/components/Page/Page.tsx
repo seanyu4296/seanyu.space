@@ -14,7 +14,10 @@ const Page: React.FC<Props> = ({ title, children }: Props) => {
 
   useEffect(() => {
     if (pageRef.current) {
-      pageRef.current.scrollIntoView();
+      /*
+       * Remove scroll into view
+       * pageRef.current.scrollIntoView();
+       */
     }
   }, []);
 
