@@ -36,7 +36,7 @@ const Author = ({ author, isIndex }: Props) => (
     )}
     <p className={styles.subtitle}>
       Sr. Software Eng @ <a href="https://www.xendit.co/en/">Xendit.</a> <br />
-      Solving problems for software and team’s to scale. <br />
+      Solving problems for software and teams to ⚖️. <br />
       Giving learning in public a 🥃.
     </p>
   </div>
