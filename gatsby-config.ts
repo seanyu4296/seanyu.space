@@ -131,6 +131,21 @@ export default {
             options: { wrapperStyle: "margin-bottom: 1.0725rem" },
           },
           "gatsby-remark-autolink-headers",
+          // {
+          //   resolve: "gatsby-remark-embed-gist",
+          //   options: {
+          //     // Optional:
+          //     /*
+          //      * the github handler whose gists are to be accessed
+          //      * username: "seanyu4296",
+          //      */
+          //     /*
+          //      * a string that represents the github default gist css url.
+          //      * defaults: "https://github.githubassets.com/assets/gist-embed-b3b573358bfc66d89e1e95dbf8319c09.css"
+          //      */
+          //     // gistCssUrlAddress: "<string>",
+          //   },
+          // },
           "gatsby-remark-prismjs",
           "gatsby-remark-copy-linked-files",
           "gatsby-remark-smartypants",
