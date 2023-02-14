@@ -4,7 +4,7 @@ date: "2023-02-13T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "distributed-tracing-for-message-broker-subscribers"
-category: "Golang"
+category: "Distributed Tracing"
 tags:
   - "Distributed Tracing"
   - "Kafka"
