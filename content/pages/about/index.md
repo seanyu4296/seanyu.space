@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 ---
 
-TLDR; Here is my [CV](./CV.pdf).
+TLDR; Here is my [CV](https://drive.google.com/file/d/11M9CbdYewDUp_suUd86AmBCzTbuyAMED/view?usp=drive_link).
 
 Hey there 👋, Sean here—engineer, builder, and relentless learner.
 
