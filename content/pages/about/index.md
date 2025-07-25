@@ -3,7 +3,7 @@ title: "About me"
 template: "page"
 ---
 
-TLDR; Here is my [CV](./Sean%20Tristan%20Yu%20CV.pdf).
+TLDR; Here is my [CV](./CV.pdf).
 
 Hey there 👋, Sean here—engineer, builder, and relentless learner.
 
@@ -21,4 +21,3 @@ Whether it’s shipping new products, creating dashboards that uncover cost savi
 You will find me learning Brazilian Jiu Jitsu, doing some Calisthenics, playing in a Church worship band, and wandering the city and trails with my wife.
 
 [Feel free to reach out and connect](/pages/contacts).
-
