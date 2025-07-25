@@ -5,21 +5,20 @@ template: "page"
 
 TLDR; Here is my [CV](./Sean%20Tristan%20Yu%20CV.pdf).
 
-Hey there 👋, Sean here, a guy giving learning a public a shot.
+Hey there 👋, Sean here—engineer, builder, and relentless learner.
 
-I am currently helping [Xendit](https://www.xendit.co/en/) scale its Payment infrastructure across Asia by solving tech problems and preventing problems from happening. My work revolves around **building and maintaining systems, exploring new tech, and coaching others**.
+Currently, I lead [Xendit](https://www.xendit.co/en/)'s Payments team, where I’m responsible for scaling payment infrastructure across Asia and solving some of the hardest technical and team challenges. I’m passionate about making impact through both system improvements and by empowering those around me.
 
-<!-- reviewing tech specs, exploring new tech, maintaining internal libs and coaching other engineers. -->
+I thrive on learning new paradigms and experimenting with functional programming, distributed systems, observability, and cloud infrastructure.
 
-<!-- I love to make sure i and my colleagues write software together that meets feature requirements and deadlines, but also built to last, easy to evolve to, and hard to break. -->
-I love learning new paradigms that improve or challenge previous ones. I have a wide array of interests that I garnered along the way - these range from **Functional Programming to Front end Development**. Now, I mainly dabble in **Distributed Systems, Observability, Backend Development, and solving org-wide engineering problems**.
+Career-wise, I started out by building my first web app for a small business back in college, which sparked my jump from business grad to software engineer.
 
-Just some history, my career started when I stitched up a very crude web app for a small business back in college. I realised I wanted to give software engineering a try and I have not looked back since. After graduation, I worked at [Zap](https://www.zapestore.com/) where I **led the front end team to utilize [Purescript](https://github.com/zapph/purescript-jason) and React** to build web apps, mobile apps, and serverless applications in production.
+Whether it’s shipping new products, creating dashboards that uncover cost savings, architecting for scale, or coaching teams through chaos, I bring curiosity, structure, and a people-first mindset. I’m most energized when collaborating to turn technical challenges into meaningful impact.
 
-If you want to know more about what I do, feel free to look at my CV. [Click here](./Sean%20Tristan%20Yu%20CV.pdf)
 
 ### Outside of work
 
-You will find me [trying out new calisthenic moves in the parks of Hong Kong](https://www.instagram.com/stories/highlights/17946957623160711/), wandering the city and trails with my wife, or noodling with my guitar at home.
+You will find me learning Brazilian Jiu Jitsu, doing some Calisthenics, playing in a Church worship band, and wandering the city and trails with my wife.
 
 [Feel free to reach out and connect](/pages/contacts).
+
