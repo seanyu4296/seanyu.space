@@ -16,7 +16,17 @@ exports[`NotFoundTemplate renders correctly 1`] = `
           </a>
         </h2>
         <p>
-          Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.
+          Staff Software Engineer @ 
+          <a
+            href="https://www.xendit.co/en/"
+          >
+            Xendit.
+          </a>
+           
+          <br />
+          Turning curiosity and teamwork into real-world software solutions 
+          <br />
+          Giving learning in public a shot.
         </p>
       </div>
       <nav>
