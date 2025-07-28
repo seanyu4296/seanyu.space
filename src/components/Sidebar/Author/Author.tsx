@@ -37,7 +37,7 @@ const Author = ({ author, isIndex }: Props) => (
     <p className={styles.subtitle}>
       Staff Software Engineer @ <a href="https://www.xendit.co/en/">Xendit.</a>{" "}
       <br />
-      Turning Curiosity and Teamwork Into Real-World Software Solutions <br />
+      Turning curiosity and teamwork into real-world software solutions <br />
       Giving learning in public a shot.
     </p>
   </div>
